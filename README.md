@@ -1,5 +1,5 @@
 ## Welcome 👋
-This project aims to evaluate predictive neuronal hippocampal representations for which real (calcium imaging data) and simulated data will be combined.
+This project aims to evaluate predictive neuronal hippocampal representations for which real (calcium imaging data) and simulated data will be compared.
 
 <!--
 **Paula1651/Paula1651** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
